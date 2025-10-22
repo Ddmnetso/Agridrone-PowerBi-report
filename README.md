@@ -15,3 +15,13 @@ For the full project visit: https://github.com/MR-coder246/PRJ371-Project
 * *Collaboration within a multidisciplinary team.*</br>
 * *Utilizing SQL statements to extract data from the database, establishing connections and integrating it for the purpose of generating Power-BI visualisations.* </br>
 * *Data reporting through Power-BI*</br>
+
+# How to Use the Report
+Open the Report: Launch the Power BI report file (.pbix) using Power BI Desktop or the Power BI service.<br/>
+Navigate the Dashboard: Use the interactive elements such as slicers and filters to customize the view.<br/>
+Explore Data: Click on visualizations to drill down into specific data points or to see detailed information.<br/>
+Export Data: If needed, export the data or visualizations for further analysis or reporting.<br/>
+
+# Prerequisites
+Power BI Desktop: Ensure you have Power BI Desktop installed to open and interact with the report.<br/>
+Power BI Service: If using the Power BI service, ensure you have the necessary permissions to view and interact with the report.<br/>
