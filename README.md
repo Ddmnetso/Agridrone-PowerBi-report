@@ -17,7 +17,7 @@ For the full project visit: https://github.com/MR-coder246/PRJ371-Project
 * *Data reporting through Power-BI*</br>
 
 # How to Use the Report
-Open the Report: Launch the Power BI report file (.pbix) using Power BI Desktop or the Power BI service.<br/>
+Open the Report: Launch the Power BI report file (.pbit) using Power BI Desktop or the Power BI service.<br/>
 Navigate the Dashboard: Use the interactive elements such as slicers and filters to customize the view.<br/>
 Explore Data: Click on visualizations to drill down into specific data points or to see detailed information.<br/>
 Export Data: If needed, export the data or visualizations for further analysis or reporting.<br/>
